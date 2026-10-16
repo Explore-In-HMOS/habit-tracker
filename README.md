@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Habit Tracker
 
 A HarmonyOS wearable application for tracking daily rituals and personal growth habits. Features three time-based ritual periods (Morning, Afternoon, Evening) with support for normal tasks, breathing exercises with haptic coaching, and step tracking via the pedometer sensor. Users can add custom rituals, track completion progress through ring indicators, and maintain persistent state across app restarts with a local relational database.
